@@ -19,12 +19,19 @@
 
 <h3>😊Fun Facts About Me</h3>
 <li>Like playing tennis🎾</li>
+<li>Like learning languages📚</li>
+<pre><p>Able to speak:</p>
+<pre><li>English<li>
+<pre><li>Cantonese<li>
+<pre><li>Mandarin<li>
+<pre><li>Korean<li>
+<pre><li>Spanish<li>
+<li>Like Travelling🌏</>
 
 <br>
 
 <h3>📱Socials</h3>
-<p align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="HTML Logo" width="40" height="40"/>
-
+<p align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" width="40" height="40"/> <img src="" alt="Portfolio" />
 
 
 
