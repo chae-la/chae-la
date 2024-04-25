@@ -1,7 +1,7 @@
 <h1 align=center>Hey!✌️ I'm Michaela</h2>  
-<h3>A Junior Software Engineer from the UK </h3>
+<h3>🖥️A Junior Software Engineer from the UK </h3>
 
-<br>
+----
 
 <h3>🛠️Skills</h3>
 <p>Programming Languages</p>
@@ -9,36 +9,42 @@
 <p>Testing</p>
 <p align="left"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/>  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="react" width="40" height="40"/> <img src="https://testing-library.com/img/octopus-128x128.png" alt="react" width="40" height="40"/></p>
 
-<br>
+---
 
 <h3>📊Stats</h3>
 <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chae-la&theme=github_dark />
 <img src=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chae-la&theme=github_dark />
 
-<br>
+---
+
 
 <h3>😊Fun Facts About Me</h3>
-<li>Like playing tennis🎾</li>
-<li>Like learning languages📚</li>
-<pre><p>Able to speak:</p>
-<li>English</li>
-<li>Cantonese</li>
-<li>Mandarin</li>
-<li>Korean</li>
-<li>Spanish</li>
-<p>Currently Learning:</p>
-<li>Bahasa Malayu (Malay)</li>
-<li>Arabic</li>
-<li>Japanese</li>
-<p>Want To Learn:</p>
-<li>Sign Language</li>
-</pre>
-<li>Like Travelling🌏</>
+<ul>
+  <li>Like playing tennis🎾</li>
+  <li>Like learning languages📚
+    <ul>
+      <p>Able to speak:</p>
+      <li>English</li>
+      <li>Cantonese</li>
+      <li>Mandarin</li>
+      <li>Korean</li>
+      <li>Spanish</li>
+    </ul>
+    <p>Currently Learning:</p>
+    <ul>
+      <li>Bahasa Melayu (Malay)</li>
+      <li>Arabic</li>
+      <li>Japanese</li>
+    </ul>
+  </li>
+  <li>Like Travelling🌏</li>
+</ul>
 
-<br>
+---
 
 <h3>📱Socials</h3>
-<p align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" width="40" height="40"/> <img src="" alt="Portfolio" />
+<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  href="https://www.linkedin.com/in/michaela-chan-877880198/"/> 
+<img href="https://chae-la.github.io/Personal-Portfolio/" src="https://img.shields.io/badge/portfolio--%23e5c2f0?style=flat-square&logoColor=%23e5c2f0&label=Portfolio&labelColor=%23e5c2f0&color=%23e5c2f0" alt="Portfolio" width="100"/>
 
 
 
