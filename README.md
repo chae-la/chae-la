@@ -21,11 +21,18 @@
 <li>Like playing tennis🎾</li>
 <li>Like learning languages📚</li>
 <pre><p>Able to speak:</p>
-<pre><li>English<li>
-<pre><li>Cantonese<li>
-<pre><li>Mandarin<li>
-<pre><li>Korean<li>
-<pre><li>Spanish<li>
+<li>English</li>
+<li>Cantonese</li>
+<li>Mandarin</li>
+<li>Korean</li>
+<li>Spanish</li>
+<p>Currently Learning:</p>
+<li>Bahasa Malayu (Malay)</li>
+<li>Arabic</li>
+<li>Japanese</li>
+<p>Want To Learn:</p>
+<li>Sign Language</li>
+</pre>
 <li>Like Travelling🌏</>
 
 <br>
