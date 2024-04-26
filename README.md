@@ -12,8 +12,8 @@
 ---
 
 <h3>📊Stats</h3>
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chae-la&theme=github_dark />
-<img src=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chae-la&theme=github_dark />
+<p align="left"><img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chae-la&theme=github_dark />
+<img src=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chae-la&theme=github_dark /></p>
 
 ---
 
