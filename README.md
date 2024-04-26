@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Logo" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Springboot Logo" /></p> 
 <p>Testing</p>
-<p align="left"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest Logo" width="40" height="40"/>  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="react" width="40" height="40"/> <img src="https://testing-library.com/img/octopus-128x128.png" alt="react" width="40" height="40"/></p>
+<p align="left"> <img src="https://img.shields.io/badge/Jest-%23c33d15?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest Logo" />  <img src="https://img.shields.io/badge/Cypress-%2333655b?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress Logo"/> <img src="https://img.shields.io/badge/React%20Testing-%23c93233?style=for-the-badge&logo=Testing%20Library&logoColor=white" alt="React Testing Library Logo"/></p>
 
 ---
 
