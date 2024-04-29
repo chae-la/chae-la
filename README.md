@@ -51,9 +51,12 @@
 ---
 
 <h3>📱Socials</h3>
-<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  href="https://www.linkedin.com/in/michaela-chan-877880198/"/> 
-<img href="https://chae-la.github.io/Personal-Portfolio/" src="https://img.shields.io/badge/portfolio--%23e5c2f0?style=flat-square&logoColor=%23e5c2f0&label=Portfolio&labelColor=%23e5c2f0&color=%23e5c2f0" alt="Portfolio" width="100"/>
-
+<a href="https://www.linkedin.com/in/michaela-chan-877880198/">
+  <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://chae-la.github.io/Personal-Portfolio/">
+  <img src="https://img.shields.io/badge/portfolio--%23e5c2f0?style=flat-square&logoColor=%23e5c2f0&label=Portfolio&labelColor=%23e5c2f0&color=%23e5c2f0" alt="Portfolio" width="100"/>
+</a>
 
 
 <!--
