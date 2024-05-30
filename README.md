@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/michaela-chan-877880198/">
   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://chae-la.github.io/Personal-Portfolio/">
+<a href="https://chae-la.github.io/">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-9bb6aa?style=for-the-badge" alt="Portfolio"/>
 </a>
 
