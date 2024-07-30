@@ -57,6 +57,9 @@
 <a href="https://chae-la.github.io/portfolio-michaela/">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-9bb6aa?style=for-the-badge" alt="Portfolio"/>
 </a>
+<a href="https://docs.google.com/presentation/d/1Tpod1ziur2qtq0VXz2-_4lGWgr-S3mMXPL75jmvw6fo/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/CV-%23d9d2e9?style=for-the-badge&logoColor=%23d9d2e9">
+</a>
 
 
 
